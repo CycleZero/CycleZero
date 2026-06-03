@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm CycleZero (Poyuan / 破元)
+# 👋 你好，我是 CycleZero（Poyuan / 破元）
 
-> 一个热爱折腾的全栈开发者 | Full-Stack Developer
+> 一个热爱折腾的全栈开发者
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 技术栈
 
-**Languages**
+**编程语言**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -18,7 +18,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Frameworks & Tools**
+**框架与工具**
 
 ![Kratos](https://img.shields.io/badge/Kratos-black?style=flat&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -28,9 +28,9 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 精选项目
 
-| Project | Description | Tech |
+| 项目 | 描述 | 技术 |
 |---------|-------------|------|
 | [**ley**](https://github.com/CycleZero/ley) | 基于 Kratos 的分布式个人博客 | Go / Kratos |
 | [**civitai-model-downloader**](https://github.com/CycleZero/civitai-model-downloader) | Civitai 模型下载 CLI 工具 | Go |
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub 统计
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CycleZero&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,15 +50,15 @@
 
 ---
 
-### 🌱 Currently
+### 🌱 当前动态
 
-- 🏗️ Building distributed systems with **Go + Kratos**
-- 🤖 Exploring **AI / LLM** applications
-- 🎮 Tinkering with **Minecraft** server tools
-- 📝 Writing my blog at [blog.poyuan233.cn](https://blog.poyuan233.cn)
+- 🏗️ 使用 **Go + Kratos** 构建分布式系统
+- 🤖 探索 **AI / LLM** 应用
+- 🎮 折腾 **Minecraft** 服务端工具
+- 📝 在 [blog.poyuan233.cn](https://blog.poyuan233.cn) 写博客
 
 ---
 
 <div align="center">
-  <sub>Created 2022-02-09</sub>
+  <sub>始于 2022-02-09</sub>
 </div>
