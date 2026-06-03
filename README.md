@@ -4,8 +4,6 @@
 
 > 一个热爱折腾的全栈开发者 | Full-Stack Developer
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cyclezero@outlook.com)
-
 </div>
 
 ---
@@ -46,7 +44,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CycleZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CycleZero&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CycleZero&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
