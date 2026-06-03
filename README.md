@@ -35,7 +35,7 @@
 | [**ley**](https://github.com/CycleZero/ley) | 基于 Kratos 的分布式个人博客 | Go / Kratos |
 | [**civitai-model-downloader**](https://github.com/CycleZero/civitai-model-downloader) | Civitai 模型下载 CLI 工具 | Go |
 | [**mc-yggdrasil-go**](https://github.com/CycleZero/mc-yggdrasil-go) | Minecraft Yggdrasil 认证服务 | Go |
-| [**mc-msmp-go**](https://github.com/CycleZero/mc-msmp-go) | Minecraft 多服务器管理平台 | Go |
+| [**mc-msmp-go**](https://github.com/CycleZero/mc-msmp-go) | MSMP（我的世界服务器管理协议）简易客户端 | Go |
 | [**go-cloudreve-sdk**](https://github.com/CycleZero/go-cloudreve-sdk) | Cloudreve Go SDK | Go |
 | [**comfyui-poyuan-nodes**](https://github.com/CycleZero/comfyui-poyuan-nodes) | ComfyUI 自定义节点 | Python |
 
